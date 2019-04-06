@@ -4,6 +4,8 @@ function remCaclculate(px) {
 	function countEmValue() {
 		return px / browserValue;
 	}
+
+	return countEmValue;
 }
 
 let smallText = 13;
